@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teste",
-    "slug": "teste",
+    "name": "TP4 Native",
+    "slug": "tp4-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,14 +10,14 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.contanike2701.teste"
+      "bundleIdentifier": "com.millena_cardoso.tp4-native"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.contanike2701.teste"
+      "package": "millena_cardoso"
     },
     "web": {
       "bundler": "metro",
@@ -47,6 +47,6 @@
         "projectId": "8e4ca8ca-4ad1-4f87-8707-16cac427d246"
       }
     },
-    "owner": "contanike2701"
+    "owner": "millena_cardoso"
   }
 }
