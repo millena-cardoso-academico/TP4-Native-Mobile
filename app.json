@@ -17,7 +17,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "millena_cardoso"
+      "package": "com.millena_cardoso.tp4native"
     },
     "web": {
       "bundler": "metro",
